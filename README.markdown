@@ -29,8 +29,8 @@ A web-based AI assistant that can execute Python code, built with FastAPI, WebSo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-assistant.git
-   cd ai-assistant
+   git clone https://github.com/hassan9khaled/Chatbot.git
+   cd Chatbot
    ```
 
 2. Create and activate a virtual environment:

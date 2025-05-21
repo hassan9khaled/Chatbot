@@ -52,7 +52,7 @@ A web-based AI assistant that can execute Python code, built with FastAPI, WebSo
 
 5. Run the application:
    ```bash
-   uvicorn ai_assistant.main:app --host 0.0.0.0 --port 8000
+   uvicorn Chatbot.main:app --host 0.0.0.0 --port 8000
    ```
 
 6. Open `http://localhost:8000` in your browser.
@@ -60,8 +60,8 @@ A web-based AI assistant that can execute Python code, built with FastAPI, WebSo
 ## Project Structure
 
 ```
-ai-assistant/
-├── ai_assistant/
+Chatbot/
+├── Chatbot/
 │   ├── config.py        # Configuration settings
 │   ├── core/           # Core functionality
 │   │   ├── agent.py
